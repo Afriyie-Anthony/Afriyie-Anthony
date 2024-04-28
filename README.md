@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afriyie-Anthony
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning front-end development
+- 🌱 A front-end development
 - 📫 How to reach me WhatsApp contact 0550807914
 
 <!---
