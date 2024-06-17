@@ -4,6 +4,7 @@
 - Specialized in HTML CSS JAVASCRIPT ANGULAR
 - 📫 How to reach me WhatsApp contact 0550807914
 - You can rich me on LinkedIn on Afriyie Anthony
+- and all social meadia accouts
 
 <!---
 Afriyie-Anthony/Afriyie-Anthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
