@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afriyie-Anthony
 - 👀 I’m interested in software developer
 - 🌱 A front-end development
-- Specialized in HTML CSS JAVASCRIPT ANGULAR
+- Specialized in HTML CSS JAVASCRIPT REACT NEXTJS TAILWIND CSS
 - 📫 How to reach me WhatsApp contact 0550807914
 - You can rich me on LinkedIn on Afriyie Anthony
 - and all social meadia accouts
